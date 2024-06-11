@@ -1,0 +1,451 @@
+[
+    {
+        "Provider": "000Domains",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.000domains.com",
+        "Takeover Instructions": "Issue #19"
+    },
+    {
+        "Provider": "000Domains",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.000domains.com",
+        "Takeover Instructions": "Issue #19"
+    },
+    {
+        "Provider": "000Domains",
+        "Status": "Vulnerable",
+        "Fingerprint": "fwns1.000domains.com",
+        "Takeover Instructions": "Issue #19"
+    },
+    {
+        "Provider": "000Domains",
+        "Status": "Vulnerable",
+        "Fingerprint": "fwns2.000domains.com",
+        "Takeover Instructions": "Issue #19"
+    },
+    {
+        "Provider": "AWS Route 53",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns-****.awsdns-**.org",
+        "Takeover Instructions": "Issue #1"
+    },
+    {
+        "Provider": "AWS Route 53",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns-****.awsdns-**.co.uk",
+        "Takeover Instructions": "Issue #1"
+    },
+    {
+        "Provider": "AWS Route 53",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns-***.awsdns-**.com",
+        "Takeover Instructions": "Issue #1"
+    },
+    {
+        "Provider": "AWS Route 53",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns-***.awsdns-**.net",
+        "Takeover Instructions": "Issue #1"
+    },
+    {
+        "Provider": "Azure (Microsoft)",
+        "Status": "Edge Case",
+        "Fingerprint": "ns1-**.azure-dns.com",
+        "Takeover Instructions": "Issue #5"
+    },
+    {
+        "Provider": "Azure (Microsoft)",
+        "Status": "Edge Case",
+        "Fingerprint": "ns2-**.azure-dns.net",
+        "Takeover Instructions": "Issue #5"
+    },
+    {
+        "Provider": "Azure (Microsoft)",
+        "Status": "Edge Case",
+        "Fingerprint": "ns3-**.azure-dns.org",
+        "Takeover Instructions": "Issue #5"
+    },
+    {
+        "Provider": "Azure (Microsoft)",
+        "Status": "Edge Case",
+        "Fingerprint": "ns4-**.azure-dns.info",
+        "Takeover Instructions": "Issue #5"
+    },
+    {
+        "Provider": "Bizland",
+        "Status": "No New Accounts",
+        "Fingerprint": "ns1.bizland.com",
+        "Takeover Instructions": "Issue #3"
+    },
+    {
+        "Provider": "Bizland",
+        "Status": "No New Accounts",
+        "Fingerprint": "ns2.bizland.com",
+        "Takeover Instructions": "Issue #3"
+    },
+    {
+        "Provider": "Bizland",
+        "Status": "No New Accounts",
+        "Fingerprint": "clickme.click2site.com",
+        "Takeover Instructions": "Issue #3"
+    },
+    {
+        "Provider": "Bizland",
+        "Status": "No New Accounts",
+        "Fingerprint": "clickme2.click2site.com",
+        "Takeover Instructions": "Issue #3"
+    },
+    {
+        "Provider": "Cloudflare",
+        "Status": "Edge Case",
+        "Fingerprint": "*.ns.cloudflare.com",
+        "Takeover Instructions": "Issue #10"
+    },
+    {
+        "Provider": "Digital Ocean",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.digitalocean.com",
+        "Takeover Instructions": "Issue #22"
+    },
+    {
+        "Provider": "Digital Ocean",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.digitalocean.com",
+        "Takeover Instructions": "Issue #22"
+    },
+    {
+        "Provider": "Digital Ocean",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns3.digitalocean.com",
+        "Takeover Instructions": "Issue #22"
+    },
+    {
+        "Provider": "DNSMadeEasy",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns**.dnsmadeeasy.com",
+        "Takeover Instructions": "Issue #6"
+    },
+    {
+        "Provider": "DNSimple",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.dnsimple.com",
+        "Takeover Instructions": "Issue #16"
+    },
+    {
+        "Provider": "DNSimple",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.dnsimple.com",
+        "Takeover Instructions": "Issue #16"
+    },
+    {
+        "Provider": "DNSimple",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns3.dnsimple.com",
+        "Takeover Instructions": "Issue #16"
+    },
+    {
+        "Provider": "DNSimple",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns4.dnsimple.com",
+        "Takeover Instructions": "Issue #16"
+    },
+    {
+        "Provider": "Domain.com",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.domain.com",
+        "Takeover Instructions": "Issue #17"
+    },
+    {
+        "Provider": "Domain.com",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.domain.com",
+        "Takeover Instructions": "Issue #17"
+    },
+    {
+        "Provider": "DomainPeople",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns1.domainpeople.com",
+        "Takeover Instructions": "Issue #14"
+    },
+    {
+        "Provider": "DomainPeople",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns2.domainpeople.com",
+        "Takeover Instructions": "Issue #14"
+    },
+    {
+        "Provider": "Dotster",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.dotster.com",
+        "Takeover Instructions": "Issue #18"
+    },
+    {
+        "Provider": "Dotster",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.dotster.com",
+        "Takeover Instructions": "Issue #18"
+    },
+    {
+        "Provider": "Dotster",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.nameresolve.com",
+        "Takeover Instructions": "Issue #18"
+    },
+    {
+        "Provider": "Dotster",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.nameresolve.com",
+        "Takeover Instructions": "Issue #18"
+    },
+    {
+        "Provider": "EasyDNS",
+        "Status": "Vulnerable",
+        "Fingerprint": "dns1.easydns.com",
+        "Takeover Instructions": "Issue #9"
+    },
+    {
+        "Provider": "EasyDNS",
+        "Status": "Vulnerable",
+        "Fingerprint": "dns2.easydns.net",
+        "Takeover Instructions": "Issue #9"
+    },
+    {
+        "Provider": "EasyDNS",
+        "Status": "Vulnerable",
+        "Fingerprint": "dns3.easydns.org",
+        "Takeover Instructions": "Issue #9"
+    },
+    {
+        "Provider": "EasyDNS",
+        "Status": "Vulnerable",
+        "Fingerprint": "dns4.easydns.info",
+        "Takeover Instructions": "Issue #9"
+    },
+    {
+        "Provider": "Gandi.net",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "a.dns.gandi.net"
+    },
+    {
+        "Provider": "Gandi.net",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "b.dns.gandi.net"
+    },
+    {
+        "Provider": "Gandi.net",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "c.dns.gandi.net"
+    },
+    {
+        "Provider": "Google Cloud",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns-cloud-**.googledomains.com",
+        "Takeover Instructions": "Issue #2"
+    },
+    {
+        "Provider": "Hostinger (old NS)",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns1.hostinger.com"
+    },
+    {
+        "Provider": "Hostinger (old NS)",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns2.hostinger.com"
+    },
+    {
+        "Provider": "Hover",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns1.hover.com",
+        "Takeover Instructions": "Issue #21"
+    },
+    {
+        "Provider": "Hover",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns2.hover.com",
+        "Takeover Instructions": "Issue #21"
+    },
+    {
+        "Provider": "Hurricane Electric",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns5.he.net",
+        "Takeover Instructions": "Issue #25"
+    },
+    {
+        "Provider": "Hurricane Electric",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns4.he.net",
+        "Takeover Instructions": "Issue #25"
+    },
+    {
+        "Provider": "Hurricane Electric",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns3.he.net",
+        "Takeover Instructions": "Issue #25"
+    },
+    {
+        "Provider": "Hurricane Electric",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.he.net",
+        "Takeover Instructions": "Issue #25"
+    },
+    {
+        "Provider": "Hurricane Electric",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.he.net",
+        "Takeover Instructions": "Issue #25"
+    },
+    {
+        "Provider": "Linode",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.linode.com",
+        "Takeover Instructions": "Issue #26"
+    },
+    {
+        "Provider": "Linode",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.linode.com",
+        "Takeover Instructions": "Issue #26"
+    },
+    {
+        "Provider": "MediaTemple (mt)",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns1.mediatemple.net",
+        "Takeover Instructions": "Issue #23"
+    },
+    {
+        "Provider": "MediaTemple (mt)",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns2.mediatemple.net",
+        "Takeover Instructions": "Issue #23"
+    },
+    {
+        "Provider": "MyDomain",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.mydomain.com",
+        "Takeover Instructions": "Issue #4"
+    },
+    {
+        "Provider": "MyDomain",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.mydomain.com",
+        "Takeover Instructions": "Issue #4"
+    },
+    {
+        "Provider": "Name.com",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1***.name.com",
+        "Takeover Instructions": "Issue #8"
+    },
+    {
+        "Provider": "Name.com",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2***.name.com",
+        "Takeover Instructions": "Issue #8"
+    },
+    {
+        "Provider": "Name.com",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns3***.name.com",
+        "Takeover Instructions": "Issue #8"
+    },
+    {
+        "Provider": "Name.com",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns4***.name.com",
+        "Takeover Instructions": "Issue #8"
+    },
+    {
+        "Provider": "namecheap",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "*.namecheaphosting.com"
+    },
+    {
+        "Provider": "namecheap",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "*.registrar-servers.com"
+    },
+    {
+        "Provider": "Network Solutions",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "ns**.worldnic.com",
+        "Takeover Instructions": "Issue #15"
+    },
+    {
+        "Provider": "NS1",
+        "Status": "Registration Closed (I can help, comment on the linked issue.)",
+        "Fingerprint": "dns1.p**.nsone.net",
+        "Takeover Instructions": "Issue #7"
+    },
+    {
+        "Provider": "NS1",
+        "Status": "Registration Closed (I can help, comment on the linked issue.)",
+        "Fingerprint": "dns2.p**.nsone.net",
+        "Takeover Instructions": "Issue #7"
+    },
+    {
+        "Provider": "NS1",
+        "Status": "Registration Closed (I can help, comment on the linked issue.)",
+        "Fingerprint": "dns3.p**.nsone.net",
+        "Takeover Instructions": "Issue #7"
+    },
+    {
+        "Provider": "NS1",
+        "Status": "Registration Closed (I can help, comment on the linked issue.)",
+        "Fingerprint": "dns4.p**.nsone.net",
+        "Takeover Instructions": "Issue #7"
+    },
+    {
+        "Provider": "TierraNet",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.domaindiscover.com",
+        "Takeover Instructions": "Issue #24"
+    },
+    {
+        "Provider": "TierraNet",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.domaindiscover.com",
+        "Takeover Instructions": "Issue #24"
+    },
+    {
+        "Provider": "Reg.ru",
+        "Status": "Vulnerable (sanctions may stop payments)",
+        "Fingerprint": "ns1.reg.ru",
+        "Takeover Instructions": "Issue #28"
+    },
+    {
+        "Provider": "Reg.ru",
+        "Status": "Vulnerable (sanctions may stop payments)",
+        "Fingerprint": "ns2.reg.ru",
+        "Takeover Instructions": "Issue #28"
+    },
+    {
+        "Provider": "UltraDNS",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "pdns***.ultradns.com",
+        "Takeover Instructions": "Issue #29"
+    },
+    {
+        "Provider": "UltraDNS",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "udns***.ultradns.com",
+        "Takeover Instructions": "Issue #29"
+    },
+    {
+        "Provider": "UltraDNS",
+        "Status": "Not Vulnerable",
+        "Fingerprint": "sdns***.ultradns.com",
+        "Takeover Instructions": "Issue #29"
+    },
+    {
+        "Provider": "Yahoo Small Business",
+        "Status": "Vulnerable",
+        "Fingerprint": "yns1.yahoo.com",
+        "Takeover Instructions": "Issue #20"
+    },
+    {
+        "Provider": "Yahoo Small Business",
+        "Status": "Vulnerable",
+        "Fingerprint": "yns2.yahoo.com",
+        "Takeover Instructions": "Issue #20"
+    }
+]
