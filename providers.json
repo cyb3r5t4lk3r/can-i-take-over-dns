@@ -447,5 +447,17 @@
         "Status": "Vulnerable",
         "Fingerprint": "yns2.yahoo.com",
         "Takeover Instructions": "Issue #20"
+    },
+    {
+        "Provider": "IBM Cloud",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns1.softlayer.com",
+        "Takeover Instructions": ""
+    },
+        {
+        "Provider": "IBM Cloud",
+        "Status": "Vulnerable",
+        "Fingerprint": "ns2.softlayer.com",
+        "Takeover Instructions": ""
     }
 ]
